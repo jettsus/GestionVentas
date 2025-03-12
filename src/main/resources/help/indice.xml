@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN" "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+  <indexitem text="Ejemplo JavaHelp" target="aplicacion" />
+  <indexitem text="Ventana principal" target="MainView2" />
+
+  <indexitem text="Ventana gestion productos" target="ProductoView" />
+  <indexitem text="Ventana anadir productos" target="AnadirProducto" />
+  <indexitem text="Ventana editar productos" target="EditarProducto" />
+  <indexitem text="Gestion informes de productos" target="GestionInformeProducto" />
+
+
+  <indexitem text="Ventana gestion ventas" target="GestionVentas" />
+  <indexitem text="Ventana anadir ventas" target="AnadirVenta" />
+  <indexitem text="Ventana editar ventas" target="EditarVenta" />
+    <indexitem text="Gestion informes de ventas" target="GestionInformes" />
+
+
+
+  <indexitem text="Ventana gestion usuarios" target="GestionUsuario2" />
+  <indexitem text="Ventana anadir usuarios" target="AnadirUsuario" />
+  <indexitem text="Ventana editar usuarios" target="EditarUsuario" />
+
+
+</index>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE map
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+"http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="1.0">
+    <mapID target="aplicacion" url="./html/main.html" />
+    <mapID target="MainView2" url="./html/MainView2.html" />
+
+    <mapID target="ProductoView" url="./html/Ventana_gestionProductos.html" />
+    <mapID target="AnadirProducto" url="./html/Ventana_anadirProducto.html" />
+    <mapID target="EditarProducto" url="./html/Ventana_editarProducto.html" />
+    <mapID target="GestionInformeProducto" url="./html/GestionInformeProducto.html" />
+
+    <mapID target="GestionVentas" url="./html/ventana_gesVentas.html" />
+    <mapID target="AnadirVenta" url="./html/Ventana_anadirVentas.html" />
+    <mapID target="EditarVenta" url="./html/Ventana_editarVentas.html" />
+    <mapID target="GestionInformes" url="./html/GestionInformes.html" />
+    
+    
+    <mapID target="GestionUsuario2" url="./html/ventana_gesUsuarios.html" />
+    <mapID target="AnadirUsuario" url="./html/Ventana_anadirUsuarios.html" />
+    <mapID target="EditarUsuario" url="./html/Ventana_editarUsuarios.html" />
+
+</map>

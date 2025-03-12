@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+    <tocitem text="Aplicacion JavaHelp"    target="aplicacion">
+        <tocitem text="Ventana principal"    target="MainView2"/>
+           
+        <tocitem text="Ventana gestion productos"    target="ProductoView"/>
+        <tocitem text="Ventana anadir productos"    target="AnadirProducto"/>
+        <tocitem text="Ventana editar productos"    target="EditarProducto"/>
+        <tocitem text="Ventana gestion informes productos"    target="GestionInformeProducto"/>
+
+
+        <tocitem text="Ventana gestion ventas"    target="GestionVentas"/>
+        <tocitem text="Ventana anadir ventas"    target="AnadirVenta"/>
+        <tocitem text="Ventana editar ventas"    target="EditarVenta"/>
+        <tocitem text="Ventana gestion informes ventas"    target="GestionInformes"/>
+           
+           
+        <tocitem text="Ventana gestion usuarios"    target="GestionUsuario2"/>
+        <tocitem text="Ventana anadir usuarios"    target="AnadirUsuario"/>
+        <tocitem text="Ventana editar usuarios"    target="EditarUsuario"/>
+    </tocitem>
+</toc>
